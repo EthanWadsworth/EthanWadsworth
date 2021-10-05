@@ -17,6 +17,7 @@ My name is Ethan Wadsworth and I'm currently an undergraduate at the University 
 ---
 [![macOS](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![Windows](https://img.shields.io/badge/Windows-Windows%2010-0067b8?style=flat-square&logo=windows&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/Tool-Jupyter-%23E46E2E?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
 
