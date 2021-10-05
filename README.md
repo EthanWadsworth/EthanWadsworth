@@ -1,4 +1,5 @@
-# Hi There!
+# Hi There! <img src="https://raw.githubusercontent.com/EthanWadsworth/EthanWadsworth/main/wave.gif?token=AKRKMWI4TOVACUYPSHHHAMTBMUSUQ" width="30px">
+
 My name is Ethan Wadsworth and I'm currently an undergraduate at the University of California, San Diego (UCSD) majoring in computer science. 
 
 ## About Me
