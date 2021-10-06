@@ -1,10 +1,14 @@
 # Hi There! <img src="https://raw.githubusercontent.com/EthanWadsworth/EthanWadsworth/main/wave.gif?token=AKRKMWI4TOVACUYPSHHHAMTBMUSUQ" width="30px">
 
-My name is Ethan Wadsworth and I'm currently an undergraduate at the University of California, San Diego (UCSD) majoring in computer science. 
+My name is Ethan Wadsworth and I'm currently an undergraduate at the University of California, San Diego (UCSD) majoring in computer science. I enjoy developing web applications but also have interests in machine learning.
 
 ## About Me
-- I'm currently working on founding a startup with some friends
-- I'm currently learning stripe
+- 💻 Working on: Founding a startup with some friends
+- 🌱 Currently learning: Stripe
+- 💬 Talk to me about:
+  - 🏈 Football (Go Rams!)
+  - 🎮 Video Games (LoL, Dota, Smash)
+  - 🏊‍♂️ Swimming (Competed for 8 years)
 
 ## Get In Touch
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ethan-wadsworth/)
